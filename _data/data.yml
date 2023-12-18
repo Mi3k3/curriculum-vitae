@@ -72,13 +72,12 @@ experiences:
         time: 02/2023 – present
         company: Vlaamse overheid  - consultant for Merapar
         details: |
-          For the Flemish government, I'm currently working on an e-portal for people being subjected to electronic monitoring. 
-          In doing so, this e-portal functions as a self-service counter where people can consult the status of activities in their file, 
-          view information about their electronic monitoring and complete administrative tasks themselves (e.g. management of their work schedule, personal information), 
-          thereby relieving the VCET staff of the burden and allowing them to focus on more value-added interactions with people subjected to EM. 
-          My task is to create the frontend for this e-portal. 
-          In addition to developing the portal, I am lead/owner of an overlapping project where we are styling Primeng components so that they are similar to the VO web components written in Vue. 
-          This library is accessible through an npm registry.
+          For the Flemish government, I played a key role in developing an e-portal tailored for individuals under electronic monitoring. This user-friendly platform 
+          serves as a self-service hub, enabling users to check their file status, access information about electronic monitoring, and handle administrative tasks 
+          independently—such as managing work schedules and personal information. This not only empowers users but also eases the workload for VCET staff, allowing them 
+          to focus on more impactful interactions. My primary responsibility involves creating the frontend for this e-portal.  
+          At the same time, I led and was owner of a project where we styled Primeng components to align with the VO web components in Vue. 
+          This project involved making the library accessible through an npm registry, ensuring a seamless integration of styled components.
         tasks: |
           VCET e-portal
             - Create a new frontend application in Angular
@@ -97,12 +96,12 @@ experiences:
         time: 11/2020 - 04/2023
         company: Car-Systems B.V. / LKQ  - consultant for Assign
         details: |
-          Car-Systems B.V. is a software development company that provides a "one stop" solution for garages. 
-          At CarSys, I worked on the development of a Garage Management System that enables garages to easily manage everything from appointment and planning 
-          to ordering parts and invoicing through one online tool. The first big project I was asked to do, together with two other developers, was the development of a time 
-          registration tool, where employees can book their hours so they get a clear overview of who is doing what and when. 
-          The second project I was working on together with a backend developer is an integration with ROB, where work orders can be sent directly to a leasing company and 
-          can also be processed in sync. In addition to these two projects I also worked on the existing platform (GMS), upgrading it to mui5 and implemented new features.
+          At LKQ - Car-Systems B.V., I played a key role in developing a comprehensive Garage Management System. This all-in-one solution 
+          simplifies garage operations, handling everything from appointment scheduling to parts ordering and invoicing within a unified online platform.  
+          In collaboration with a skilled team, we created a time registration tool, providing employees with a clear overview of tasks and schedules. 
+          Additionally, I worked on integrating our system with ROB, streamlining the direct dispatch of work orders to leasing companies.  
+          Simultaneously, I contributed to enhancing the existing GMS platform by upgrading it to MUI5 and implementing new features. 
+          This multifaceted experience demonstrates my commitment to innovation and optimization in software development.
         tasks: |
           Time registration module:
             - UI/UX
@@ -137,15 +136,13 @@ experiences:
         time: 07/2019 – 11/2020
         company: Fairplay Casino’s  - consultant for Assign
         details: |
-          Fair Play casinos are entertainment centres with a wide variety of games, where anyone of legal age can play. 
-          They both have physical locations and online platforms.
-          The Online casino platform offers slot games, table games and live casino games. 
-          The platform had to be converted according to the new style guides and had to comply with the legislation of the relevant country. 
-          In addition, security and authentication played an important role for these platforms.
-          For the Spanish casino, the biggest adaptation, besides language and design, was a slot module which enables a player to determine in advance 
-          how long he wants to play, how much money he wants to spend, how often he is reminded of his current balance and how long he does not want 
-          to play again after the session has ended. As the Spanish platform was an extension of the current platform, the Dutch platform is a completely 
-          new platform. It will contain the same functionalities, but the structure and programming language are different.
+          Fair Play casinos are versatile entertainment hubs offering a diverse range of games accessible to legal-age players through both physical locations 
+          and online platforms. The online casino section features slots, table games, and live casino games. A key focus was the adaptation of the online platform 
+          to new style guides and compliance with relevant country legislation, prioritizing security and authentication.  For the Spanish casino, significant 
+          modifications included language and design updates, with a notable addition being a customizable slot module. This feature allows players to pre-determine 
+          play duration, spending limits, balance reminders, and post-session downtime preferences. The Spanish platform served as an extension to the existing one.  
+          In contrast, the Dutch platform is an entirely new creation, maintaining similar functionalities but employing a distinct structure and programming language. 
+          This dual approach reflects the adaptability and innovation necessary in meeting diverse market requirements.
         tasks: |
           For the Spanish platform, I adapted the current platform according to the Spanish legislation. Both backend and frontend.
             - Development
@@ -163,9 +160,9 @@ experiences:
         time: 01/2019 – 07/2019
         company: Unilogic  - consultant for Assign
         details: |
-          Unilogic has been the ICT partner for schools, governments and businesses throughout the Netherlands since 1996. 
-          I worked on the Dapto project. Dapto is a web-based administration system that supports professionals in 
-          entering and processing data on/about students and their staff.
+          Unilogic, a trusted ICT partner serving schools, governments, and businesses across the Netherlands since 1996, has been at the forefront of technology 
+          solutions. During my tenure, I contributed to the Dapto project—a web-based administration system designed to empower professionals in efficiently entering 
+          and managing data related to students and staff.
         tasks: |
           Design, frontend, backend and database models:
             - Designing and integrating the existing Pravoo model, in a flexible way so that own models can also be developed
@@ -182,11 +179,10 @@ experiences:
       - role: Analist/ developer/ Data protection manager
         time: 2015 – 2018
         company: AppSaloon
-        details: |
-          I joined AppSaloon in 2015 as a front-end developer. I got the chance to expand my skills with react, angular and PHP. 
-          I was responsible for preparing the quotations, translating the customer's questions into requirements for the developer, 
-          I was fullstack web developer and joined the app theme if necessary. Next to developing, I was also engrossed in everything 
-          that has to do with GDPR and made sure that AppSaloon is GDPR ready.
+        details: | 
+          In 2015, I joined AppSaloon as a front-end developer, seizing the opportunity to broaden my expertise in React, Angular, and PHP. Beyond my role as a full-stack 
+          web developer, I took on responsibilities such as crafting quotations, translating customer inquiries into developer requirements, and contributing to app themes 
+          when needed. In addition to development tasks, I delved into the intricacies of GDPR, ensuring AppSaloon's compliance with data protection regulations.
         tasks:
         projects: |
           AppSaloon - WPGDPR Core Plugin
@@ -211,9 +207,9 @@ experiences:
         time: 2016 – 2018
         company: Syntra Genk
         details: |
-          As a web development teacher, I taught students the programming languages HTML, JavaScript, Angular, React, PHP and CSS. 
-          I coached my class to become front-end developers. 
-          I trained them in: programming, testing and implementing designs
+          As a web development teacher, I instructed students in a range of programming languages including HTML, JavaScript, Angular, React, PHP, and CSS. 
+          My focus was on nurturing their skills to become proficient developers. 
+          Through coaching, I guided them in the practical aspects of programming, testing, and implementing designs to ensure a comprehensive understanding of web development concepts.
         tasks:
         projects:
         environments:
