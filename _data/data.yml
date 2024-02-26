@@ -69,7 +69,27 @@ experiences:
     title: Experiences
     info:
       - role: Lead front-end developer
-        time: 04/2023 – present
+        time: 01/2024 – present
+        company: Telenet  - consultant for Merapar
+        details: |
+          At Telenet, I am a member of Team Mora, tasked with the vital mission of modernizing applications to empower Telenet's success in the digital era. 
+          However, it's important to note that our approach is not about seizing ownership; rather, it's about facilitating and fostering collaboration. 
+          Our focus lies in transitioning outdated applications into cloud-based solutions, leveraging the latest technologies. Presently, my efforts are concentrated 
+          on transforming a JSP application into a dynamic Angular frontend supported by a Java backend. Specifically, my responsibilities encompass the refinement of 
+          the frontend application, streamlining the pipeline, and overseeing deployment to S3.
+        tasks: |
+          PSDB
+            - Create two frontend application in Angular (client and admin)
+            - Update UI/UX
+            - Frontend development
+            - OAuth2 - OKTA
+            - CI/CD
+            - S3
+        environments: |
+          Angular, Typescript, Java, PostgreSQL, AWS, Gitlab, Atlassian
+
+      - role: Lead front-end developer
+        time: 04/2023 – 12/2023
         company: Vlaamse overheid  - consultant for Merapar
         details: |
           For the Flemish government, I played a key role in developing an e-portal tailored for individuals under electronic monitoring. This user-friendly platform 
