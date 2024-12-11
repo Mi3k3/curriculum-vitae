@@ -68,8 +68,28 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Software developer
+        time: 04/2024 – present
+        company: Smals
+        details: |
+          At Smals, I develop and maintain a comprehensive Angular web application, following best practices in frontend development. 
+          Additionally, I create and manage custom web components using Angular Elements to enhance modularity and reusability throughout the application. 
+          I also collaborate closely with backend teams to implement a backend-for-frontend architecture, optimizing data flow and API integration.
+        tasks: |
+            EVF
+              - Maintaining the frontend application in Angular
+              - Implementing new features
+          UHMEP 
+              - Frontend development (Angular and Angular elements)
+              - Backend development (Java)
+              - Implementing new features
+              - OAuth - Keycloak
+              - CI/CD
+        environments: |
+          Angular, Typescript, Java, PostgreSQL, AWS, Gitlab, Atlassian, Openshift
+
       - role: Lead front-end developer
-        time: 01/2024 – present
+        time: 01/2024 – 04/2024
         company: Telenet  - consultant for Merapar
         details: |
           At Telenet, I am a member of Team Mora, tasked with the vital mission of modernizing applications to empower Telenet's success in the digital era. 
