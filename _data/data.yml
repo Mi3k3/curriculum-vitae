@@ -68,26 +68,35 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software developer
+      - role: Software developer / Software architect
         time: 04/2024 – present
         company: Smals
         details: |
           At Smals, I develop and maintain a comprehensive Angular web application, following best practices in frontend development. 
           Additionally, I create and manage custom web components using Angular Elements to enhance modularity and reusability throughout the application. 
-          I also collaborate closely with backend teams to implement a backend-for-frontend architecture, optimizing data flow and API integration.
+          I implement and maintain a backend-for-frontend architecture, ensuring optimized data flow and seamless API integration.
+          As a software architect for MAGS, I define governance guidelines and oversee the integration of web components into the mobile application, 
+          ensuring they meet technical and functional requirements. I also contribute to the Storybook and component guidelines to ensure consistency and alignment across all web components before integration.
         tasks: |
-          EVF
+          EVF (forms)
             - Maintaining the frontend application in Angular
             - Implementing new features
           
-          UHMEP 
+          UHMEP (referral prescriptions)
             - Frontend development (Angular and Angular elements)
             - Backend development (Java)
             - Implementing new features
             - OAuth - Keycloak
             - CI/CD
+          
+          Mags (mobile app Mijn Gezondheid)
+            - Software Architect (Angular IONIC project)
+            - Define governance guidelines
+            - Lead integration of web components into the mobile app
+            - Maintain Storybook and component documentation to guarantee consistency
+
         environments: |
-          Angular, Typescript, Java, PostgreSQL, AWS, Gitlab, Atlassian, Openshift
+          Angular, Ionic, Typescript, Java, PostgreSQL, AWS, Gitlab, Github, Atlassian, Openshift
 
       - role: Lead front-end developer
         time: 01/2024 – 04/2024
