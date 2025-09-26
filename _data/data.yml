@@ -76,7 +76,7 @@ experiences:
           Additionally, I create and manage custom web components using Angular Elements to enhance modularity and reusability throughout the application. 
           I implement and maintain a backend-for-frontend architecture, ensuring optimized data flow and seamless API integration.
           As a software architect for MAGS, I define governance guidelines and oversee the integration of web components into the mobile application, 
-          ensuring they meet technical and functional requirements. I also contribute to the Storybook and component guidelines to ensure consistency and alignment across all web components before integration.
+          ensuring they meet technical and functional requirements. I also contribute to Storybook and component guidelines to ensure consistency and alignment across all web components before integration.
         tasks: |
           EVF (forms)
             - Maintaining the frontend application in Angular
@@ -294,7 +294,10 @@ skills:
         level: 85%
 
       - name: Vue.js (typescript)
-        level: 70%
+        level: 65%
+
+      - name: Java
+        level: 60%
 
       - name: Golang
         level: 55%
@@ -302,11 +305,8 @@ skills:
       - name: PHP
         level: 50%
 
-      - name: Java
-        level: 40%
-
       - name: Postgresql
-        level: 80%
+        level: 85%
 
       - name: MongoDB
         level: 60%
