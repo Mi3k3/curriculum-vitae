@@ -68,190 +68,104 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software developer / Software architect
+      - role: Software Developer / Software Architect
         time: 04/2024 – present
-        company: Smals
+        company: CodeSolutions – Consultant for Smals
         details: |
-          At Smals, I develop and maintain a comprehensive Angular web application, following best practices in frontend development. 
-          Additionally, I create and manage custom web components using Angular Elements to enhance modularity and reusability throughout the application. 
-          I implement and maintain a backend-for-frontend architecture, ensuring optimized data flow and seamless API integration.
-          As a software architect for MAGS, I define governance guidelines and oversee the integration of web components into the mobile application, 
-          ensuring they meet technical and functional requirements. I also contribute to Storybook and component guidelines to ensure consistency and alignment across all web components before integration.
-        tasks: |
-          EVF (forms)
-            - Maintaining the frontend application in Angular
-            - Implementing new features
+          At Smals, I work on the development and maintenance of large-scale Angular applications, 
+          applying modern frontend best practices and ensuring high standards in performance and maintainability. 
+          I design and manage reusable web components using Angular Elements to improve modularity and consistency 
+          across projects. I also implement and manage a backend-for-frontend (BFF) layer to optimize data flow 
+          and API interactions between services.
           
-          UHMEP (referral prescriptions)
-            - Frontend development (Angular and Angular elements)
-            - Backend development (Java)
-            - Implementing new features
-            - OAuth - Keycloak
-            - CI/CD
+          As Software Architect for the MAGS mobile application (*Mijn Gezondheid*), I define governance guidelines, 
+          oversee the integration of web components into the Ionic-based mobile app, and maintain component documentation 
+          through Storybook.
+        tasks: |
+          - Front-end and back-end development using Angular, Angular Elements, and Java
+          - Design and implementation of reusable web components and BFF architecture
+          - Integration of components within the MAGS mobile application (Ionic)
+          - Define governance and architectural guidelines for consistency and quality
+          - Maintain Storybook and documentation for shared components
+          - Implement CI/CD, OAuth2, and API integrations
+        environments: |
+          Angular, Ionic, Typescript, Java, PostgreSQL, AWS, GitLab, GitHub, Atlassian, OpenShift 
+
+      - role: Lead Front-End Developer
+        time: 04/2023 – 04/2024
+        company: Merapar – Consultant for Vlaamse Overheid & Telenet
+        details: |
+          As a consultant for Merapar, I led front-end development across two major projects: 
+          one for the Flemish Government and another for Telenet. My work focused on creating 
+          modern, cloud-ready Angular applications and establishing strong development pipelines. 
           
-          Mags (mobile app Mijn Gezondheid)
-            - Software Architect (Angular IONIC project)
-            - Define governance guidelines
-            - Lead integration of web components into the mobile app
-            - Maintain Storybook and component documentation to guarantee consistency
-
-        environments: |
-          Angular, Ionic, Typescript, Java, PostgreSQL, AWS, Gitlab, Github, Atlassian, Openshift
-
-      - role: Lead front-end developer
-        time: 01/2024 – 04/2024
-        company: Telenet  - consultant for Merapar
-        details: |
-          At Telenet, I am a member of Team Mora, tasked with the vital mission of modernizing applications to empower Telenet's success in the digital era. 
-          However, it's important to note that our approach is not about seizing ownership; rather, it's about facilitating and fostering collaboration. 
-          Our focus lies in transitioning outdated applications into cloud-based solutions, leveraging the latest technologies. Presently, my efforts are concentrated 
-          on transforming a JSP application into a dynamic Angular frontend supported by a Java backend. Specifically, my responsibilities encompass the refinement of 
-          the frontend application, streamlining the pipeline, and overseeing deployment to S3.
-        tasks: |
-          PSDB
-            - Create two frontend application in Angular (client and admin)
-            - Update UI/UX
-            - Frontend development
-            - OAuth2 - OKTA
-            - CI/CD
-            - S3
-        environments: |
-          Angular, Typescript, Java, PostgreSQL, AWS, Gitlab, Atlassian
-
-      - role: Lead front-end developer
-        time: 04/2023 – 12/2023
-        company: Vlaamse overheid  - consultant for Merapar
-        details: |
-          For the Flemish government, I played a key role in developing an e-portal tailored for individuals under electronic monitoring. This user-friendly platform 
-          serves as a self-service hub, enabling users to check their file status, access information about electronic monitoring, and handle administrative tasks 
-          independently—such as managing work schedules and personal information. This not only empowers users but also eases the workload for VCET staff, allowing them 
-          to focus on more impactful interactions. My primary responsibility involves creating the frontend for this e-portal.  
-          At the same time, I led and was owner of a project where we styled Primeng components to align with the VO web components in Vue. 
-          This project involved making the library accessible through an npm registry, ensuring a seamless integration of styled components.
-        tasks: |
-          VCET e-portal
-            - Create a new frontend application in Angular
-            - Frontend development
-            - OAuth2
-            - WEBIDM/ACM integration
+          At the Flemish Government, I developed an e-portal for individuals under electronic 
+          monitoring, enabling self-service management of administrative tasks while reducing 
+          workload for VCET staff. I also led the creation of an Angular component library, 
+          styling PrimeNG components to match VO’s design system and publishing it to a private npm registry. 
           
-          AJH VO components
-            - Create an Angular library
-            - Styling Primeng components
-            - Create custom components based on Primeng
-        environments: |
-          Angular, Typescript, Java, PostgreSQL, Atlassian
-
-      - role: Software developer
-        time: 11/2020 - 04/2023
-        company: Car-Systems B.V. / LKQ  - consultant for Assign
-        details: |
-          At LKQ - Car-Systems B.V., I played a key role in developing a comprehensive Garage Management System. This all-in-one solution 
-          simplifies garage operations, handling everything from appointment scheduling to parts ordering and invoicing within a unified online platform.  
-          In collaboration with a skilled team, we created a time registration tool, providing employees with a clear overview of tasks and schedules. 
-          Additionally, I worked on integrating our system with ROB, streamlining the direct dispatch of work orders to leasing companies.  
-          Simultaneously, I contributed to enhancing the existing GMS platform by upgrading it to MUI5 and implementing new features. 
-          This multifaceted experience demonstrates my commitment to innovation and optimization in software development.
+          At Telenet, I contributed to the modernization of legacy applications, transforming 
+          a JSP-based system into a dynamic Angular frontend with a Java backend, and managing 
+          CI/CD pipelines and S3 deployments.
         tasks: |
-          Time registration module:
-            - UI/UX
-            - Create a new frontend application in react
-            - Fetching via React Query
-            - Frontend development   
-
-          ROB:
-            - UI/UX
-            - Main focus is frontend and a few backend additions
-            - Integration of ROB within the current GMS (FE)
-            - Work order
-            - Tyre change
-            - Courtesy vehicles
-            - Service (via TecRMI)
-            - Repair time (via TecRMI)
-            - Set up React modules as generically as possible because in addition to ROB, other leasing companies will be integrated
-          
-          GMS:
-            - UI/UX
-            - Convert Navigation to Material UI
-            - Make additional purchases possible for different vehicles at once
-            - Add Storybook
-            - Create new components and functionalities
-            - Adjust templates
-            - Testing (Jest and CY)
-            - ...
+          - Develop and maintain Angular frontends for enterprise applications
+          - Lead UI/UX modernization and component design
+          - Integrate authentication (OAuth2, OKTA, WEBIDM/ACM)
+          - Build and maintain CI/CD pipelines and S3 deployments
+          - Create and publish a reusable Angular component library
         environments: |
-          React, Typescript, GoLang, PostgreSQL, Atlassian
+          Angular, Typescript, Java, PostgreSQL, AWS, GitLab, Atlassian
 
-      - role: Lead front-end/ full-stack developer
-        time: 07/2019 – 11/2020
-        company: Fairplay Casino’s  - consultant for Assign
+      - role: Software Developer / Lead Front-End Developer
+        time: 01/2019 – 04/2023
+        company: Assign – Consultant for Fairplay Casino’s, LKQ / Car-Systems B.V., and Unilogic
         details: |
-          Fair Play casinos are versatile entertainment hubs offering a diverse range of games accessible to legal-age players through both physical locations 
-          and online platforms. The online casino section features slots, table games, and live casino games. A key focus was the adaptation of the online platform 
-          to new style guides and compliance with relevant country legislation, prioritizing security and authentication.  For the Spanish casino, significant 
-          modifications included language and design updates, with a notable addition being a customizable slot module. This feature allows players to pre-determine 
-          play duration, spending limits, balance reminders, and post-session downtime preferences. The Spanish platform served as an extension to the existing one.  
-          In contrast, the Dutch platform is an entirely new creation, maintaining similar functionalities but employing a distinct structure and programming language. 
-          This dual approach reflects the adaptability and innovation necessary in meeting diverse market requirements.
+          While working at Assign, I contributed to multiple large-scale projects across diverse domains, 
+          including gaming, automotive, and education. My work spanned full-stack and lead front-end roles, 
+          focusing on building scalable, maintainable web applications with modern frameworks. 
+
+          At LKQ / Car-Systems B.V., I helped develop a comprehensive Garage Management System, 
+          introducing new modules such as a time registration tool and integrating leasing systems like ROB. 
+          I also enhanced the GMS frontend with Material UI and Storybook, ensuring a consistent and modern UI/UX.
+
+          At Fairplay Casino’s, I led the front-end team in developing both Spanish and Dutch casino platforms, 
+          adapting the existing product for compliance, localization, and new architectural standards.
+
+          At Unilogic, I worked on the Dapto platform, an administrative system for schools, 
+          where I contributed to the design and development of flexible data models and intuitive teacher tools.
         tasks: |
-          For the Spanish platform, I adapted the current platform according to the Spanish legislation. Both backend and frontend.
-            - Development
-
-          For the Dutch platform, I am responsible together with a colleague for the architecture and I was lead of the frontend team.
-            - Team lead 
-            - Team coordination (communication, planning)
-            - Analysis
-            - Architecture
-        projects:
+          - Front-end and full-stack development using React, Angular, PHP, and Node
+          - UI/UX design and modernization (Material UI, Storybook)
+          - Integration of external services and APIs (ROB, TecRMI, authentication)
+          - Component-driven development and architecture setup
+          - Team leadership, planning, and coordination
         environments: |
-          PHP, Node, React, Html, Sass, Webpack, Confluence, Jira, Gitlab, Bitbucket, Kubernetes, Helm
+          React, Angular, Typescript, GoLang, PHP, Node, PostgreSQL, HTML, Sass, Atlassian, GitLab, Kubernetes, Helm
 
-      - role: Full-stack developer
-        time: 01/2019 – 07/2019
-        company: Unilogic  - consultant for Assign
-        details: |
-          Unilogic, a trusted ICT partner serving schools, governments, and businesses across the Netherlands since 1996, has been at the forefront of technology 
-          solutions. During my tenure, I contributed to the Dapto project—a web-based administration system designed to empower professionals in efficiently entering 
-          and managing data related to students and staff.
-        tasks: |
-          Design, frontend, backend and database models:
-            - Designing and integrating the existing Pravoo model, in a flexible way so that own models can also be developed
-            - Designing and implementing a tool to add learning lines
-            - Designing and implementing a class book in which a teacher can make his/here class schedule via drag and drop and see at a glance which students are in front of him, where he can also add observations or actions per class or student
-            - Designing and adding a planner on which teachers can plan parent meetings that parents can sign up for and where parents can request a free meeting
-            - Converting the design for student overviews to Angular
-            - Developing a colorpicker component for Angular
-            - ...
-        projects:
-        environments: |
-          Angular, TypeScript, JavaScript, CSS, HTML, Yii-framework, PHP, PostgreSQL
-
-      - role: Analist/ developer/ Data protection manager
+      - role: Full-Stack Developer / Data Protection Manager
         time: 2015 – 2018
         company: AppSaloon
-        details: | 
-          In 2015, I joined AppSaloon as a front-end developer, seizing the opportunity to broaden my expertise in React, Angular, and PHP. Beyond my role as a full-stack 
-          web developer, I took on responsibilities such as crafting quotations, translating customer inquiries into developer requirements, and contributing to app themes 
-          when needed. In addition to development tasks, I delved into the intricacies of GDPR, ensuring AppSaloon's compliance with data protection regulations.
-        tasks:
-        projects: |
-          AppSaloon - WPGDPR Core Plugin
-            - Wordpress
-            - Analysis and development of a WordPress plugin that allows users to retrieve, modify and request deletion of their data.
-  
-          Colorbreeze - Colortally
-            - Angular
-            - Application to validate colour values of digital prints.
-  
-          Q Works - WooCommerce Transportation Tool
-            - Wordpress
-            - Analysis and development of a calculation tool to calculate transportation costs for steel plates and sandwich panels in industrial construction.
-  
-          Kellogg's - Monkey Coco Na
-            - Javascript
-            - Analysis and development of a JavaScript game for Kellogg's. By analogy with Bobbit.
+        details: |
+          I began at AppSaloon as a front-end developer focused on WordPress theming and WooCommerce integrations, 
+          later expanding into full-stack development using Angular, React, and PHP. My role combined hands-on 
+          development with client communication, translating customer needs into technical solutions and quotations. 
+          I also contributed to UI/UX design and ensured GDPR compliance as Data Protection Manager.
+
+          During my time at AppSaloon, I worked on a wide range of projects for clients across different industries:
+          - **Modern Retail** – Collaborated with a U.S.-based company specializing in WooCommerce websites integrated 
+            with in-store POS and stock systems. Focused on custom WooCommerce solutions and seamless data synchronization.  
+          - **WPGDPR Core Plugin** – Developed a WordPress plugin enabling users to view, update, and request deletion of their personal data.  
+          - **Colortally (Colorbreeze)** – Built an Angular application to validate and manage digital print color values.  
+          - **WooCommerce Transportation Tool (Q Works)** – Designed and implemented a cost calculation tool for industrial construction logistics.  
+          - **Aap Coco Na (Kellogg’s)** – Created a JavaScript-based browser game inspired by *Bop It*.
+        tasks: |
+          - Full-stack development using Angular, React, and PHP
+          - WordPress theming and WooCommerce integrations
+          - Client communication and requirements analysis
+          - UI/UX implementation and theme customization
+          - GDPR compliance and data protection management
         environments: |
-          Angular, JavaScript, Gulp, Git, SVG, React, Redux, SCSS, PHP, CSS, Jquery, Sass
+          Angular, React, Redux, JavaScript, PHP, WordPress, WooCommerce, SCSS, Sass, Gulp, jQuery, Git, SVG
 
       - role: Teacher Web Development
         time: 2016 – 2018
