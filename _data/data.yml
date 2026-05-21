@@ -68,20 +68,26 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software Developer / Software Architect
+      - role: Lead Software Developer
         time: 04/2024 – present
         company: CodeSolutions – Consultant for Smals
         details: |
-          At Smals, I work on the development and maintenance of large-scale Angular applications, 
-          applying modern frontend best practices and ensuring high standards in performance and maintainability. 
-          I design and manage reusable web components using Angular Elements to improve modularity and consistency 
-          across projects. I also implement and manage a backend-for-frontend (BFF) layer to optimize data flow 
-          and API interactions between services.
+          At Smals, as Lead Software Developer, I guide and mentor junior/medior developers, conduct thorough code reviews 
+          to uphold codebase quality, and lead technical analyses while collaborating closely with UI/UX designers to 
+          align technical and functional requirements.
           
-          As Software Architect for the MAGS mobile application (*Mijn Gezondheid*), I define governance guidelines, 
-          oversee the integration of web components into the Ionic-based mobile app, and maintain component documentation 
-          through Storybook.
+          On the development side, I work on large-scale Angular applications, applying modern frontend best practices 
+          with a strong focus on performance and maintainability. I design and manage reusable web components using 
+          Angular Elements to drive modularity and consistency across projects, and implement a backend-for-frontend 
+          (BFF) layer to optimize data flow and API interactions between services.
+          
+          Previously, as Software Architect for the MAGS mobile application (Mijn Gezondheid), I defined governance 
+          guidelines, oversaw the integration of web components into the Ionic-based mobile app, and maintained component 
+          documentation through Storybook.
         tasks: |
+          - Lead software development and mentor junior/medior developers across large-scale Angular projects
+          - Conduct code reviews and maintain codebase quality standards
+          - Lead technical analyses and collaborate with UI/UX to align technical and functional requirements
           - Front-end and back-end development using Angular, Angular Elements, and Java
           - Design and implementation of reusable web components and BFF architecture
           - Integration of components within the MAGS mobile application (Ionic)
